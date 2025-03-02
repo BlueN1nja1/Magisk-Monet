@@ -6,6 +6,8 @@ NOTICE: THIS REPO IS STRICTLY FOR EXPERIMENTAL PURPOSES. DON'T GET YOUR HOPES UP
 
 #### This is not an officially supported Google product
 
+#### This project is not in any way affiliated with offical Magisk or @topjohnwu
+
 ## Introduction
 
 Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
